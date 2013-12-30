@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.lf" format="1">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="487" y="488" type="curve" smooth="yes" name="hr00"/>
+      <point x="487" y="617" smooth="yes"/>
+      <point x="373" y="662" smooth="yes"/>
+      <point x="263" y="662" type="curve" smooth="yes"/>
+      <point x="193" y="662"/>
+      <point x="117" y="646"/>
+      <point x="70" y="623" type="curve"/>
+      <point x="71" y="609" smooth="yes"/>
+      <point x="98" y="497" smooth="yes"/>
+      <point x="99" y="497" type="curve" smooth="yes"/>
+      <point x="106" y="497"/>
+      <point x="139" y="501"/>
+      <point x="139" y="513" type="curve"/>
+      <point x="135" y="586" type="line"/>
+      <point x="171" y="602" smooth="yes"/>
+      <point x="217" y="612" smooth="yes"/>
+      <point x="261" y="612" type="curve" smooth="yes"/>
+      <point x="335" y="612" smooth="yes"/>
+      <point x="403" y="579" smooth="yes"/>
+      <point x="403" y="488" type="curve" smooth="yes"/>
+      <point x="403" y="375" smooth="yes"/>
+      <point x="318" y="293" smooth="yes"/>
+      <point x="248" y="229" type="curve" smooth="yes"/>
+      <point x="29" y="32" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="498" y="0" type="line" smooth="yes"/>
+      <point x="515" y="0"/>
+      <point x="520" y="5"/>
+      <point x="522" y="14" type="curve"/>
+      <point x="522" y="31" smooth="yes"/>
+      <point x="500" y="158" smooth="yes"/>
+      <point x="499" y="158" type="curve" smooth="yes"/>
+      <point x="491" y="158" smooth="yes"/>
+      <point x="458" y="158" smooth="yes"/>
+      <point x="458" y="142" type="curve" smooth="yes"/>
+      <point x="458" y="64" type="line"/>
+      <point x="101" y="38" type="line"/>
+      <point x="252" y="156" type="line" smooth="yes"/>
+      <point x="374" y="252" smooth="yes"/>
+      <point x="487" y="349" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="51" />
+      <hstem pos="497" width="-20" />
+      <hstem pos="612" width="50" />
+      <vstem pos="403" width="84" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

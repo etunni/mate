@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="572"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <component  base="o"/>
+    <component  base="slash" yScale="0.8" xOffset="126" yOffset="-33"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-62" width="165" />
+      <hstem pos="431" width="163" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

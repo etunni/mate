@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="410"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="169" y="-109" type="line"/>
+      <point x="363" y="316" type="line"/>
+      <point x="335" y="335" type="line" name="hr01"/>
+      <point x="323" y="316" type="line"/>
+      <point x="85" y="323" type="line"/>
+      <point x="70" y="323"/>
+      <point x="63" y="321"/>
+      <point x="61" y="309" type="curve"/>
+      <point x="61" y="298" smooth="yes"/>
+      <point x="82" y="212" smooth="yes"/>
+      <point x="83" y="212" type="curve" smooth="yes"/>
+      <point x="89" y="212"/>
+      <point x="115" y="212"/>
+      <point x="115" y="227" type="curve"/>
+      <point x="115" y="271" type="line"/>
+      <point x="298" y="276" type="line"/>
+      <point x="104" y="-93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-88" width="-21" />
+      <hstem pos="335" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
