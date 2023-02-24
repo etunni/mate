@@ -1,0 +1,4 @@
+sources:
+  - Mate.glyphs
+  - Mate-Italic.glyphs
+outputDir: "../fonts/mate"
